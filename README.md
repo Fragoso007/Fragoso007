@@ -20,14 +20,16 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ant%C3%B3nio-kalombe-fragoso-26a06b155/)](https://www.linkedin.com/in/ant%C3%B3nio-kalombe-fragoso-26a06b155/)
 
   ### Main skills:
+![CSS](https://img.shields.io/badge/CSS-yellow)
+![Html](https://img.shields.io/badge/HTML-red)
+![Javascript](https://img.shields.io/badge/javascript-blue)
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&logoColor=064635&labelColor=0D1117)&nbsp;
 ![Flask](https://img.shields.io/badge/-flask-0D1117?style=for-the-badge&logo=flask&logoColor=064635&labelColor=0D1117)&nbsp;
 ![Flask](https://img.shields.io/badge/-flet-0D1117?style=for-the-badge&logo=flet&logoColor=064635&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Javascript](https://img.shields.io/badge/javascript-blue)
-![Html](https://img.shields.io/badge/HTML-red)
-![CSS](https://img.shields.io/badge/CSS-yellow)
+
+
+
 
   
 ### Web Skills:

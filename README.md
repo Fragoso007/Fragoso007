@@ -24,6 +24,10 @@
 ![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&logoColor=064635&labelColor=0D1117)&nbsp;
 ![Flask](https://img.shields.io/badge/-flask-0D1117?style=for-the-badge&logo=flask&logoColor=064635&labelColor=0D1117)&nbsp;
 ![Flask](https://img.shields.io/badge/-flet-0D1117?style=for-the-badge&logo=flet&logoColor=064635&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Javascript](https://img.shields.io/badge/javascript-blue)
+![Html](https://img.shields.io/badge/HTML-red)
+![CSS](https://img.shields.io/badge/CSS-yellow)
 
   
 ### Web Skills:
@@ -36,6 +40,9 @@
   
 
 ### Studying at this moment:
+![Html](https://img.shields.io/badge/HTML-red)
+![CSS](https://img.shields.io/badge/CSS-yellow)
+![Javascript](https://img.shields.io/badge/javascript-blue)
 ![React](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 
 

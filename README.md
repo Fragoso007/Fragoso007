@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Antonio+Kalombe+Fragoso;I'm+from+Angola,+But+living+in+Texas+USA;I'm+studying+Python+language;+See+More+Below+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Antonio+Kalombe+Fragoso;I'm+from+Angola,+But+living+in+Texas+USA;I'm+studying+JavaScript+language;+See+More+Below+!)](https://git.io/typing-svg)
 ### Hi I'm Antonio Kalombe Fragoso
 
 <!--
@@ -40,6 +40,6 @@
 
 
 # About Me:
-I'm a Junior Back-end Developer, in love with **python** language. <USA>
+I'm a Web Developer, in love with **JavaScript** language. <USA>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fragoso007&theme=react)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>

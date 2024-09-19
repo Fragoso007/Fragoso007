@@ -24,9 +24,7 @@
 ![Html](https://img.shields.io/badge/HTML-red)
 ![Javascript](https://img.shields.io/badge/javascript-blue)
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&logoColor=064635&labelColor=0D1117)&nbsp;
-![Flask](https://img.shields.io/badge/-flask-0D1117?style=for-the-badge&logo=flask&logoColor=064635&labelColor=0D1117)&nbsp;
-![Flask](https://img.shields.io/badge/-flet-0D1117?style=for-the-badge&logo=flet&logoColor=064635&labelColor=0D1117)&nbsp;
+
 
 
 
@@ -38,7 +36,7 @@
 
 ### Data Skills:
 ![Customtkinter](https://img.shields.io/badge/-Customtkinter-0D1117?style=for-the-badge&logo=Customtkinter&labelColor=0D1117&logoColor=1572B6)&nbsp;
-![Mysql](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+
   
 
 ### Studying at this moment:

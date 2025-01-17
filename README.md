@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Antonio
 
 > 💡 Full Stack Developer | Mobile-First Expert | Performance Optimization Specialist
 
@@ -13,16 +13,16 @@
 
 ### 📊 GitHub Stats
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=antonioerdeljac&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioerdeljac&layout=compact&theme=dracula)
 
 ### 🌟 Featured Projects
 
 | Project | Description | Stars | Tech Stack |
 |---------|-------------|-------|------------|
-| [React Mobile Portfolio](https://github.com/yourusername/react-mobile-portfolio) | Mobile-first portfolio template with smooth animations | ⭐ 1.2k | React, TailwindCSS |
-| [Next.js E-commerce](https://github.com/yourusername/nextjs-ecommerce) | High-performance e-commerce platform | ⭐ 856 | Next.js, TypeScript |
-| [WordPress Headless CMS](https://github.com/yourusername/wp-headless) | Modern headless WordPress setup | ⭐ 734 | WordPress, GraphQL |
+| [React Mobile Portfolio](https://github.com/antonioerdeljac/react-mobile-portfolio) | Mobile-first portfolio template with smooth animations | ⭐ 1.2k | React, TailwindCSS |
+| [Next.js E-commerce](https://github.com/antonioerdeljac/nextjs-ecommerce) | High-performance e-commerce platform | ⭐ 856 | Next.js, TypeScript |
+| [WordPress Headless CMS](https://github.com/antonioerdeljac/wp-headless) | Modern headless WordPress setup | ⭐ 734 | WordPress, GraphQL |
 
 ### 💼 Professional Focus
 
@@ -42,12 +42,12 @@
 
 ### 📈 Activity Graph
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=dracula)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=antonioerdeljac&theme=dracula)
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername" alt="visitors">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=antonioerdeljac.antonioerdeljac" alt="visitors">
 </p>
 
 ```javascript
